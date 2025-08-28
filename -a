@@ -1,0 +1,74 @@
+[33medda4b3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m first commit
+M	README.md
+[33m0471d4c[m first commit
+M	README.md
+[33mab38ecc[m Add files via upload
+A	.env.local
+[33m69eb87f[m Initial commit
+A	components.json
+A	drizzle.config.js
+A	middleware.js
+A	output_1753881133001.mp3
+A	output_1753881278256.mp3
+M	package-lock.json
+M	package.json
+A	public/images/2151666392.jpg
+A	public/images/Cartoon.jpg
+A	public/images/Login.jpg
+A	public/images/Logo.png
+A	public/images/comic.jpg
+A	public/images/gta.jpg
+A	public/images/progress.gif
+A	public/images/real copy.jpg
+A	public/images/real.jpg
+A	public/images/waterColor.jpg
+A	src/app/(auth)/sign-in/[[...sign-in]]/page.jsx
+A	src/app/(auth)/sign-up/[[...sign-up]]/page.jsx
+A	src/app/api/gemini-test/route.js
+A	src/app/api/genrateAudio/route.js
+A	src/app/api/get-video-script/route.js
+A	src/app/api/test/route.js
+A	src/app/dashboard/_components/EmptyState.jsx
+A	src/app/dashboard/_components/Header.jsx
+A	src/app/dashboard/_components/SideNav.jsx
+A	src/app/dashboard/create-new/_components/CustomLoading.jsx
+A	src/app/dashboard/create-new/_components/SelectDuration.jsx
+A	src/app/dashboard/create-new/_components/SelectStyle.jsx
+A	src/app/dashboard/create-new/_components/selectTopic.jsx
+A	src/app/dashboard/create-new/page.jsx
+A	src/app/dashboard/layout.jsx
+A	src/app/dashboard/page.jsx
+M	src/app/globals.css
+A	src/app/layout.jsx
+D	src/app/layout.tsx
+A	src/app/page.jsx
+D	src/app/page.tsx
+A	src/app/provider.js
+A	src/components/ui/alert-dialog.tsx
+A	src/components/ui/button.tsx
+A	src/components/ui/select.tsx
+A	src/components/ui/textarea.tsx
+A	src/configs/Aimodel.js
+A	src/configs/db.js
+A	src/configs/schema.js
+A	src/lib/utils.ts
+A	tailwind.config.js
+M	tsconfig.json
+[33mc9f09d0[m Initial commit from Create Next App
+A	.gitignore
+A	README.md
+A	eslint.config.mjs
+A	next.config.ts
+A	package-lock.json
+A	package.json
+A	postcss.config.mjs
+A	public/file.svg
+A	public/globe.svg
+A	public/next.svg
+A	public/vercel.svg
+A	public/window.svg
+A	src/app/favicon.ico
+A	src/app/globals.css
+A	src/app/layout.tsx
+A	src/app/page.tsx
+A	tsconfig.json
